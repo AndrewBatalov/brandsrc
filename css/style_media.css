@@ -1,0 +1,140 @@
+@media (max-width: 992px) {
+  .section-font__container {
+    display: block;
+  }
+
+  .section-font__left-card {
+    margin: 0 0 32px 0;
+  }
+}
+
+
+
+@media (max-width: 945px) {
+  .section-color__maincard {
+    padding: 32px;
+  }
+
+  .section-logo__maincard {
+    padding: 32px;
+  }
+
+  .section-font__left-card {
+    padding: 32px;
+  }
+
+  .section-font__right-card {
+    padding: 32px;
+  }
+
+  .section-directions__maincard {
+    padding: 32px;
+  }
+
+  .section-color__maincard-container {
+    flex-direction: column;
+  }
+
+  .section-color__list {
+    flex-direction: row;
+    justify-content: space-between;
+    column-gap: 32px;
+  }
+
+  .section-color__block:not(:last-child) {
+    margin-right: 0;
+  }
+
+  .section-color__item {
+    flex: 1 1 46%;
+  }
+
+  .visibility-hidden {
+    display: none;
+  }
+
+  .section-first__container {
+    padding: 144px 20px 144px 52px;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+  .section-logo__maincard {
+    flex-direction: column;
+  }
+
+  .section-logo__content-left {
+    width: 100%;
+  }
+
+  .section-logo__content-right {
+    display: none;
+  }
+
+  .section-first__content {
+    max-width: 100%;
+  }
+}
+
+
+
+@media (max-width: 576px) {
+  .header__nav-list {
+    display: none;
+  }
+
+  .header__logo {
+    max-width: 150px;
+  }
+
+  .logo-cards {
+    flex-direction: column;
+  }
+
+  .section-first__h1 {
+    font-size: 70px;
+  }
+
+  .section-first__container {
+    padding: 70px 20px 70px 52px;
+  }
+
+  .section-color__list {
+    flex-direction: column;
+  }
+
+  .h2 {
+    font-size: 50px;
+  }
+
+  .section-font__letters {
+    font-size: 30px;
+  }
+
+  .section-font__numbers {
+    font-size: 30px;
+  }
+
+  .footer-container {
+    display: block;
+  }
+  
+  .footer__block-left {
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+
+  .footer__block-right {
+    text-align: center;
+  }
+
+  .directions-cards {
+    flex-direction: column;
+    gap: 32px;
+  }
+}
