@@ -2,8 +2,8 @@
   font-family: 'RF Rufo bold';
   font-display: swap;
   font-weight: 700;
-  src: url(../Fonts/RFRufoBold.woff2),
-       url(../Fonts/RFRufoBold.woff);
+  src: url("../Fonts/RFRufoBold.woff2"),
+       url("../Fonts/RFRufoBold.woff");
 
 }
 
@@ -11,8 +11,8 @@
   font-family: 'Museo Sans 300';
   font-display: swap;
   font-weight: 300;
-  src: url(../Fonts/MuseoSansCyrl_0.woff2),
-       url(../Fonts/MuseoSansCyrl_0.woff);
+  src: url("../Fonts/MuseoSansCyrl_0.woff2"),
+       url("../Fonts/MuseoSansCyrl_0.woff");
 
 }
 
@@ -20,16 +20,16 @@
   font-family: 'RF Rufo semibold';
   font-display: swap;
   font-weight: 600;
-  src: url(../Fonts/RFRufoSemibold.woff2),
-       url(../Fonts/RFRufoSemibold.woff);
+  src: url("../Fonts/RFRufoSemibold.woff2"),
+       url("../Fonts/RFRufoSemibold.woff");
 }
 
 @font-face {
   font-family: 'RF Rufo light';
   font-display: swap;
   font-weight: 100;
-  src: url(../Fonts/RFRufoLight.woff2),
-       url(../Fonts/RFRufoLight.woff);
+  src: url("../Fonts/RFRufoLight.woff2"),
+       url("../Fonts/RFRufoLight.woff");
 }
 
 * {
