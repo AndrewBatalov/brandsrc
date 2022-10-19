@@ -2,8 +2,8 @@
   font-family: 'RF Rufo bold';
   font-display: swap;
   font-weight: 700;
-  src: url(./fonts/RFRufoBold.woff2),
-       url(./fonts/RFRufoBold.woff);
+  src: url(./../fonts/RFRufoBold.woff2),
+       url(./../fonts/RFRufoBold.woff);
 
 }
 
